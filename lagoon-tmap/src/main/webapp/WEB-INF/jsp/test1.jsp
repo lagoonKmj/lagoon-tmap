@@ -234,7 +234,7 @@
 	<div id="map_div"></div>
 	<div>
 		<button onClick="fn_bound()">WGS84 좌표</button>
-		<button onClick="fn_find()">길 찾기</button>
+		<button onClick="fn_find()">길 찾기2</button>
 		<p id="result" />
 	</div>
 </body>
